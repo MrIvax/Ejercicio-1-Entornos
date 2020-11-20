@@ -26,7 +26,6 @@ public class EjerciciosRepetitivos2 {
             contador = (short) (contador + 1);
             numero = (short) (numero + 2);
         }
-        System.out.println("La suma de los primeros "
-                + "50 numeros impares es: " + suma);
+        System.out.println("Primer cambio Rama Master");
     }
 }
